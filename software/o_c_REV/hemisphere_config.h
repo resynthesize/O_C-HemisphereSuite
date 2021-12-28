@@ -34,6 +34,7 @@
     DECLARE_APPLET(  9, 0x08, DualQuant), \
     DECLARE_APPLET( 45, 0x02, EnigmaJr), \
     DECLARE_APPLET( 42, 0x11, EnvFollow), \
+    DECLARE_APPLET(151, 0x10, GateCounter), \
     DECLARE_APPLET( 29, 0x04, GateDelay), \
     DECLARE_APPLET( 17, 0x50, GatedVCA), \
     DECLARE_APPLET( 16, 0x80, LoFiPCM), \
