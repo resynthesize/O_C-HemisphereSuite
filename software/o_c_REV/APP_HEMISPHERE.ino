@@ -81,8 +81,8 @@ public:
         help_hemisphere = -1;
         clock_setup = 0;
 
-        SetApplet(0, get_applet_index_by_id(8)); // ADSR
-        SetApplet(1, get_applet_index_by_id(26)); // Scale Duet
+        SetApplet(0, get_applet_index_by_id(151)); // Bar Counter
+        SetApplet(1, get_applet_index_by_id(9)); // Dual Quanitzer
     }
 
     void Resume() {
